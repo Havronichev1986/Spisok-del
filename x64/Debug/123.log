@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Lenovo\Desktop\Visual Studio\123\Source.cpp(159,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Lenovo\Desktop\Visual Studio\123\Source.cpp(166,6): warning C4101: a: неиспользованная локальная переменная
+  123.vcxproj -> C:\Users\Lenovo\Desktop\Visual Studio\123\x64\Debug\123.exe
